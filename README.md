@@ -1,1 +1,1 @@
-👋 Hi there, I'm a High Schooler who loves to code.
+👋 Hi there, I'm Goutham Mahesh.
