@@ -1,1 +1,3 @@
-👋 Hi there, I'm Goutham Mahesh.
+# Goutham Mahesh
+
+Computer Science and Mathematics at UCLA.
